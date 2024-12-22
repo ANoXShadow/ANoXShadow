@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF6347; font-size: 2.5rem; font-weight: bold;">Hi 👋! I'm ANoXShadow, a Game Developer honing my skills.</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF6347; font-size: 2.5rem; font-weight: bold; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">Hi 👋! I'm ANoXShadow, a Game Developer honing my skills.</h2>
 
 ###
 
@@ -12,10 +12,28 @@
 
 ###
 
-<!-- Fun Animation or GIF for game theme -->
-<div align="center">
-  <img height="170" src="https://cdn.discordapp.com/attachments/702427321742786611/1319670811077902396/giphy.webp?ex=67682037&is=6766ceb7&hm=c5529c05d5c6b0ca8f1605e46a25158988df21ed8e364141d0a43610da98b075&" />
+<!-- Avatar Section with animated effect and polished look -->
+<div align="center" style="position: relative; margin-top: 20px; border-radius: 50%; width: 150px; height: 150px; background-color: #2C3E50; border: 5px solid #FF6347; display: flex; justify-content: center; align-items: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+  <img src="https://cdn.discordapp.com/attachments/702427321742786611/1319670811077902396/giphy.webp?ex=67682037&is=6766ceb7&hm=c5529c05d5c6b0ca8f1605e46a25158988df21ed8e364141d0a43610da98b075&" alt="Avatar" style="width: 130px; height: 130px; border-radius: 50%; animation: pulse 2s infinite ease-in-out;" />
 </div>
+
+<!-- Avatar Animation (Pulsing effect) -->
+<style>
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      box-shadow: 0px 0px 10px rgba(255, 99, 71, 0.5);
+    }
+    50% {
+      transform: scale(1.05);
+      box-shadow: 0px 0px 20px rgba(255, 99, 71, 0.8);
+    }
+    100% {
+      transform: scale(1);
+      box-shadow: 0px 0px 10px rgba(255, 99, 71, 0.5);
+    }
+  }
+</style>
 
 ###
 
