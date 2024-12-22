@@ -46,6 +46,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anoxshadow/anoxshadow/output/snake.svg" alt="Snake animation" />
+<!-- Replace the snake animation with progress bar animation -->
+<div align="center">
+  <img src="https://github.com/anoxshadow/anoxshadow/blob/output/progress.svg" alt="Progress Bar animation" />
+</div>
 
 ###
