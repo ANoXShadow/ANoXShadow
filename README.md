@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://cdn.discordapp.com/attachments/702427321742786611/1320194072899747910/giphy-1.gif?ex=6768b60a&is=6767648a&hm=df4e602ffe5dd7e8ec11d8268dc8e156e2a385515ed1f8fa125671bfbe780c95&"  />
 </div>
