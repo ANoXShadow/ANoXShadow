@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/702427321742786611/1320194072899747910/giphy-1.gif?ex=6768b60a&is=6767648a&hm=df4e602ffe5dd7e8ec11d8268dc8e156e2a385515ed1f8fa125671bfbe780c95&"  />
+  <img height="150" src="https://media3.giphy.com/media/U3UP4fTE6QfuoooLaC/200.webp?cid=ecf05e47qb8ymgt6z4ly1wko2o1rclhj1ff712xugwj2riw5&ep=v1_gifs_related&rid=200.webp&ct=g"  />
 </div>
 
 ###
