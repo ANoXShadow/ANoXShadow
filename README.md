@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm ANoXShadow<br><br>    🔭 Currently working on: Fivem Scripting<br>    📚 Currently learning: Game Dev<br>    ⚡ In my free time: Player Games</p>
+<p align="left">👋 Hello, I'm ANoXShadow<br><br>    🔭 Currently working on: Fivem Scripting<br>    📚 Currently learning: C#,Unity<br>    ⚡ In my free time: Player Games</p>
 
 ###
 
