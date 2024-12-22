@@ -7,16 +7,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@anoxstudios" target="_blank">
+  <a href="https://www.youtube.com/@anoxstudios" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://discord.gg/gbJ5SyBJBv" target="_blank">
+  <a href="https://discord.gg/gbJ5SyBJBv" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://anoxstudios.tebex.io/" target="_blank">
+  <a href="https://anoxstudios.tebex.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Tebex&logo=google-pay&label=&color=00BFFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Tebex logo" />
   </a>
-  <a href="https://anoxstudios.gitbook.io/anoxstudios" target="_blank">
+  <a href="https://anoxstudios.gitbook.io/anoxstudios" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gitbook&logo=gitbook&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gitbook logo" />
   </a>
 </div>
