@@ -4,8 +4,6 @@
   <img height="150" src="https://images-ext-1.discordapp.net/external/8ThdrEQghvQ4Dx4A5kwc-mrkyP7HAY0y2p3M5XSju0g/https/media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvczVxemNtb2gyNWxyMDhtaTlvdXZubG9xdjU4ZHJuM3puNGtzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxld1UBIiGuoh31Fus/giphy.webp?animated=true" />
 </div>
 
-<iframe src="https://discord.com/widget?id=1318710792928886844&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ###
 
 <div align="center">
@@ -40,9 +38,6 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<a href="https://discord.gg/gbJ5SyBJBv" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/discord/1318710792928886844?label=Join%20our%20Discord&logo=discord&color=7289DA&style=for-the-badge" height="25" alt="discord badge" />
-</a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
