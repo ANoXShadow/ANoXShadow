@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://images-ext-1.discordapp.net/external/8ThdrEQghvQ4Dx4A5kwc-mrkyP7HAY0y2p3M5XSju0g/https/media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvczVxemNtb2gyNWxyMDhtaTlvdXZubG9xdjU4ZHJuM3puNGtzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxld1UBIiGuoh31Fus/giphy.webp?animated=true" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhlemR3Mnp3ZDFlMGNlMnpocG51Z2N6ejdlbHdjYXc2MHViOXczNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mD6w0JKLEhBGcyBrsi/giphy.gif" />
 </div>
 
 ###
